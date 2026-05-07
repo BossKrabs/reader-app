@@ -12,13 +12,7 @@ export default defineConfig({
         name: '我的私人阅读器',
         short_name: '阅读器',
         theme_color: '#f4ecd8',
-        icons: [
-          {
-            src: 'pwa-192x192.png',
-            sizes: '192x192',
-            type: 'image/png'
-          }
-        ]
+
       }
     })
   ]
